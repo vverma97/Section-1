@@ -1,1 +1,2 @@
 (this is a message from local main branch)
+(This is a message from local feature branch)
